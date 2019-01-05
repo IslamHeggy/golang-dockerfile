@@ -1,7 +1,7 @@
 Golang Multistage Docker File 
 ==============================
 
-This docker file creates a Golang image that runs a small sized Golang container of your code using multistages docker file.
+This docker file creates a Golang image that runs a small sized Golang container of your code using a multistaged docker file.
 
 
 ## Notes
